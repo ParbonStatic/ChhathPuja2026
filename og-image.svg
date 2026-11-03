@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD54F"/><stop offset=".45" stop-color="#FF9A2E"/><stop offset=".72" stop-color="#E65100"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#FFF8D0"/><stop offset=".5" stop-color="#FFD54F"/><stop offset="1" stop-color="#FF9800" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <circle cx="900" cy="300" r="230" fill="url(#glow)"/>
+  <circle cx="900" cy="300" r="90" fill="#FF6F00"/>
+  <rect y="430" width="1200" height="200" fill="#0277BD"/>
+  <g stroke="#fff" stroke-opacity=".45" stroke-width="4" fill="none"><path d="M0 470c60-18 120-18 180 0s120 18 180 0 120-18 180 0 120 18 180 0 120-18 180 0 120 18 180 0 120-18 120 0"/><path d="M0 520c60-18 120-18 180 0s120 18 180 0 120-18 180 0 120 18 180 0 120-18 180 0 120 18 180 0"/></g>
+  <path d="M780 440h240l-30 90H810z" fill="#F4B400" stroke="#4A2412" stroke-width="6"/>
+  <path d="M800 470h200M810 500h180" stroke="#4A2412" stroke-width="4"/>
+  <rect x="60" y="60" width="1080" height="510" rx="18" fill="none" stroke="#FFFDF8" stroke-width="4" stroke-dasharray="14 10" opacity=".7"/>
+  <text x="80" y="230" font-family="Noto Serif Devanagari, serif" font-size="96" font-weight="700" fill="#FFFDF8">छठ महापर्व</text>
+  <text x="80" y="320" font-family="Georgia, serif" font-size="64" font-weight="700" fill="#4A2412">Chhath Mahaparv</text>
+  <text x="80" y="385" font-family="Arial, sans-serif" font-size="30" fill="#FFFDF8">Salutations to Bhagwan Surya &amp; Chhathi Maiya</text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="#FFF4D6">BIHAR · JHARKHAND · PURVANCHAL</text>
+</svg>
